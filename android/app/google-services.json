@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259626740198",
+    "project_id": "bookportfolio-8cb60",
+    "storage_bucket": "bookportfolio-8cb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259626740198:android:34ec260c219b17db894e27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_book_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259626740198-9p5m3dmgvuso11kaptmq2p0t139mk1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAAss2ODs8Dc_14vL3sSsUH-lY88l7fgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259626740198-9p5m3dmgvuso11kaptmq2p0t139mk1q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
